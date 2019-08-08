@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f7091f6-c59e-4be6-bec4-8b74d12d4f63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Travels.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Travel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Travel.js" afterDir="false" />
@@ -26,17 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="183" />
-    <option name="y" value="27" />
-    <option name="width" value="1371" />
-    <option name="height" value="815" />
-  </component>
   <component name="ProjectId" id="1OdkGtcsWVUNYap8Ghx4wvqjVFb" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ExpeditionS02/JSP-JPP" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -66,6 +62,8 @@
       <workItem from="1563888244546" duration="2465000" />
       <workItem from="1564039521074" duration="264000" />
       <workItem from="1564314772533" duration="2367000" />
+      <workItem from="1564389441496" duration="208000" />
+      <workItem from="1564664409936" duration="2697000" />
     </task>
     <servers />
   </component>
@@ -77,7 +75,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
